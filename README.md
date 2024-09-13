@@ -1,5 +1,5 @@
 # multi-agent_llm
-## A multi-agent, multimodal system that can incorporates RAG, memory and planning; and can take input from other traditional ML algorithms (e.g. CNNs).
+## A multi-agent, multimodal system that can incorporate RAG, memory and planning; and can take input from other traditional ML algorithms (e.g. CNNs).
 
 The present repository is based on previous and ongoing work at the Okinawa Institute of Science and Technology (OIST). A multi-agent system was developed, which coordinated several LLMs, a fine-tuned Convolutional Neural Network for image detection, and a robotic arm. The system was designed to simulate a teaching environment, where an AI agent took on the role of a mother guiding a child in manipulating colored cubes. It was capable of real-time communication in open natural language (speech), object detection, reasoning, memory, and improvisation. 
 
