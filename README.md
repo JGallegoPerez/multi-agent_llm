@@ -13,7 +13,7 @@ The following video comes from a longer human-robot interaction. It illustrates 
 https://github.com/user-attachments/assets/aafd5a66-2225-416d-8d04-1f99cc9c2c8e
 
 
-## Project Adaptation
+# Project Adaptation
 
 This repository contains an adapted version of the original multi-agent system, designed to demonstrate its core functionalities without the need for specialized hardware. Here's an overview of the adaptation and how to use it:
 
